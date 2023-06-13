@@ -1,1 +1,2 @@
-# Mini-Project-16-Convert-Colored-Video-to-Grey-Scale-black-and-white-using-OpenCV
+# Mini Project-16: "Resize the 100 images to 50% (smaller)" using OpenCV 
+link to download images https://unsplash.com/s/photos/big-tree
